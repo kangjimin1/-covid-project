@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(17,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(44,5): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(148,11): warning C4566: 유니버설 문자 이름 '\u2027'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(149,11): warning C4566: 유니버설 문자 이름 '\u2027'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(151,11): warning C4566: 유니버설 문자 이름 '\u2027'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(185,127): warning C4020: 'pow': 실제 매개 변수가 너무 많습니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(185,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'double'입니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(148,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [219]'과(와) 다릅니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(149,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [294]'과(와) 다릅니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(150,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [284]'과(와) 다릅니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(151,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [326]'과(와) 다릅니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(76,9): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\main.c(74,20): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+  컴프 프로젝트 covid 19.vcxproj -> C:\Users\강지민\source\repos\컴프 프로젝트 covid 19\x64\Debug\컴프 프로젝트 covid 19.exe
